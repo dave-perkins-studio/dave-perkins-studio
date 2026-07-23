@@ -20,7 +20,8 @@ at the end.
 | [Concern Worldwide](https://systemseed.com/clients/fighting-extreme-poverty-with-concern-worldwide/) | A sticky mobile donate bar for one of Ireland's largest humanitarian organisations, A/B tested, with the colour chosen on contrast rather than urgency alone. |
 | Cycling UK | Their first member self-service portal, for 70,000+ members: login, profile, comms preferences, Stripe payments and a two-way Dynamics CRM sync. |
 | Sustainable Health Index | A clinical dashboard for a multi-role health data platform, with aggregate reporting for site managers and a permissions model giving each role only what it needs. |
-| [Innovate UK Business Connect](https://systemseed.com/clients/ukri-innovate-uk/) | Research into how UK businesses actually look for innovation funding, then a plain-language set of opportunity types and stages to replace the internal jargon. |
+| [Innovate UK Business Connect](https://iuk-business-connect.org.uk/) | Research into how UK businesses actually look for innovation funding, then a plain-language set of opportunity types and stages to replace the internal jargon. |
+| [Innovate UK KTP](https://iuk-ktp.org.uk/) | Site design for the Knowledge Transfer Partnerships programme: success stories, breadcrumb navigation, the contact page, and a diagram of how a partnership actually runs. |
 | [Kappa Delta Foundation](https://systemseed.com/clients/kappa-delta/) | An e-card giving flow and the Founders Day of Giving campaign on their donation platform. |
 | [Globethics](https://systemseed.com/clients/ethics-made-accessible-redesigning-globethics-digital-platform/) | Design work across their site, and the findings report back from their 2025 strategy workshop. |
 | Horizon EU | Wireframes, as-is user journeys and copy for the global programmes listing and the programme pages underneath it. |
