@@ -8,14 +8,14 @@ Before UX I spent eight years in Manchester as a creative and music lead, which
 taught me more about people and persuasion than any design course managed. I
 still play, usually in a baritone tuning, usually too loud.
 
-The day job is research, flows, prototypes and accessibility for organisations
-like Concern Worldwide, Cycling UK and the Sustainable Health Index. What ends
-up here is the other half: things I build for myself.
+I'm currently on contract with [SystemSeed](https://systemseed.com), which puts
+me on research, flows, prototypes and accessibility for Concern Worldwide,
+Cycling UK, the Sustainable Health Index, Globethics, Innovate UK Business
+Connect and Kappa Delta. That work is private, so this page is closer to an
+index than a portfolio. Ask if you want to see any of it properly.
 
-## A note on the repositories
-
-Most of what I do is client work, so most of it is private. This page is closer
-to an index than a portfolio. If you want to see something properly, ask.
+What is here is the other half: side projects, small enough to actually finish,
+built to keep my hands in the making end of the job.
 
 ## Elsewhere
 
