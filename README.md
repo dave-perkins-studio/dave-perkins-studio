@@ -33,6 +33,25 @@ to see any of it properly.
 The rest of what's here is side projects: small enough to actually finish, and
 built to keep my hands in the making end of the job.
 
+## Interests
+
+Music is the constant. Playing is covered above; the rest of the habit is
+recording and production, plus the amp-and-pedal rabbit hole that goes with
+them. I like the feel, sound and history of the equipment at least as much as
+the playing, which gets expensive. Listening is mostly progressive and anything
+in an odd time signature.
+
+I'm drawn to old things with some character to them: well-made tools, old
+hardware, instruments, books. Most of the appeal is that they can be fixed,
+and I'll happily lose an evening adjusting a setup until it behaves.
+
+Most of the apps on this account are dice rollers and party games because
+that's what gets played at our table: the games came first, the apps
+followed.
+
+Family and time outside come first: ordinary routines, walks, the coast.
+Living in Clevedon helps with at least two of those.
+
 ## Elsewhere
 
 - LinkedIn: [daveperkinscreative](https://www.linkedin.com/in/daveperkinscreative/)
