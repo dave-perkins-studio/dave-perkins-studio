@@ -10,7 +10,7 @@ still play, usually in a baritone tuning, usually too loud.
 
 ## Contract work
 
-Since 2025 I've been on contract with [SystemSeed](https://systemseed.com),
+Since 2025 I've predominantly been on contract with [SystemSeed](https://systemseed.com), alongside smaller projects,
 embedded in their delivery teams as senior UX designer. Agile sprints, research
 through to build, with accessibility reviewed every sprint rather than bolted on
 at the end.
