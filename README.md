@@ -18,8 +18,7 @@ aaaand lots of other projects that I can't really talk about.
 
 ## Side projects
 
-The rest of what's here is side projects: small enough to actually finish, and
-built to keep my hands in the making end of the job.
+The rest of what's here is experimenting with what a designer can build. Things to serve my family, and small little apps and nuggets that bring joy.
 
 ## Interests
 
@@ -31,4 +30,4 @@ built to keep my hands in the making end of the job.
 ## Elsewhere
 
 - LinkedIn: [daveperkinscreative](https://www.linkedin.com/in/daveperkinscreative/)
-
+- Website WIP: [daveperkinsstudio LTD](https://daveperkins.studio) daveperkins.studio
