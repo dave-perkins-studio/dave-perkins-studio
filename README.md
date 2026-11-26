@@ -1,19 +1,12 @@
 # Dave Perkins
 
-Senior UX designer in Bristol. Fifteen years spent on health, charity,
-non-profit and public sector products, mostly asking awkward questions until the
-shape of the real problem turns up. I live in Clevedon.
-
-Before UX I spent eight years in Manchester as a creative and music lead, which
-taught me more about people and persuasion than any design course managed. I
-still play, usually in a baritone tuning, usually too loud.
+Bristol based Senior UX-er in Bristol. Fifteen years on health, charity,
+non-profit and public sector products. I tend to be the person questioning, and drilling down until we get to the heart of the problem/solution. Sounds annoying, but its actually one of the most useful skills right now.
 
 ## Contract work
 
 Since 2025 I've predominantly been on contract with [SystemSeed](https://systemseed.com), alongside smaller projects,
-embedded in their delivery teams as senior UX designer. Agile sprints, research
-through to build, with accessibility reviewed every sprint rather than bolted on
-at the end.
+embedded in their delivery teams as senior UX designer. SCRUM and product focussed, with some really nice impact based clients.
 
 - Concern Worldwide ([SystemSeed case study](https://systemseed.com/clients/fighting-extreme-poverty-with-concern-worldwide/))
 - Innovate UK Business Connect ([site](https://iuk-business-connect.org.uk/), [SystemSeed case study](https://systemseed.com/clients/ukri-innovate-uk/))
@@ -21,8 +14,7 @@ at the end.
 - Kappa Delta Foundation ([SystemSeed case study](https://systemseed.com/clients/kappa-delta/))
 - Globethics ([SystemSeed case study](https://systemseed.com/clients/ethics-made-accessible-redesigning-globethics-digital-platform/))
 
-There's other work I can't list here. Client work is private, so almost none of
-it is on this account. Ask if you want to see any of it properly.
+aaaand lots of other projects that I can't really talk about.
 
 ## Side projects
 
@@ -31,24 +23,12 @@ built to keep my hands in the making end of the job.
 
 ## Interests
 
-Music is the constant. Playing is covered above; the rest of the habit is
-recording and production, plus the amp-and-pedal rabbit hole that goes with
-them. I like the feel, sound and history of the equipment at least as much as
-the playing, which gets expensive. Listening is mostly progressive and anything
-in an odd time signature.
-
-I'm drawn to old things with some character to them: well-made tools, old
-hardware, instruments, books. Most of the appeal is that they can be fixed,
-and I'll happily lose an evening adjusting a setup until it behaves.
-
-Most of the apps on this account are dice rollers and party games because
-that's what gets played at our table: the games came first, the apps
-followed.
-
-Family and time outside come first: ordinary routines, walks, the coast.
-Living in Clevedon helps with at least two of those.
+- Heavy and alt music in many forms
+- Old, soulful things
+- Beautiful stories
+- Trees and coastlines.
 
 ## Elsewhere
 
 - LinkedIn: [daveperkinscreative](https://www.linkedin.com/in/daveperkinscreative/)
-- Available for UX design, product thinking and research work.
+
